@@ -1,21 +1,19 @@
-# vue-music
+# vue-qqmusic
 
-> 音乐播放器
+> 音乐播放器 WebApp
 
-## Build Setup
+## 概述
 
-``` bash
-# install dependencies
-npm install
+抓取qq音乐中的图片，歌手，新闻，音乐等数据，模仿完成了一个音乐播放器。
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 安装
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+```
+$ git clone https://github.com/YasinChan/vue_qqmusic.git
+$ npm i
+$ npm run dev
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+未完待续。。。
