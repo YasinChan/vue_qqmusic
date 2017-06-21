@@ -72,8 +72,6 @@
           if (res.code === ERR_OK) {
             this.discList = res.data.list
           }
-        }).catch((e) => {
-          console.log(e)
         })
       }
     },
